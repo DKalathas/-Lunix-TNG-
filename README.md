@@ -31,3 +31,9 @@ $ ./testIoctl /dev/lunixY-XXXX Z, where XXXX={temp,light,batt}, Y=[0,15] AND Z=0
 
 $ ./testMmap /dev/lunixY-XXXX, where XXXX={temp,light,batt}, Y=[0,15]
 (to see the XXXX measurement, in RAW bytes, of the Y sensor)
+
+### Team members:
+
+Dimitris Kalathas, Dimitris Kalemis
+
+### The assignment language is greek.
